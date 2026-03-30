@@ -48,6 +48,9 @@ WEB class contents
    **** 알파값은 불투명도를 나타내는 값으로 0~1 값 중에서 사용(0<->1)(0으로 갈수록 투명,1로 갈수록 불투명)
   *** 16진수 표기법
   *** rgb/rgba 표기법
+---
+* 칼라를 숫자로 표기하는 방법
+* <img width="590" height="414" alt="image" src="https://github.com/user-attachments/assets/b00a170f-bf3c-4e08-af0e-a63e8141bf49" />
 
 
   
