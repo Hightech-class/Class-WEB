@@ -48,7 +48,7 @@ WEB class contents
    **** 알파값은 불투명도를 나타내는 값으로 0~1 값 중에서 사용(0<->1)(0으로 갈수록 투명,1로 갈수록 불투명)
   *** 16진수 표기법
   *** rgb/rgba 표기법
- ** text-align 속성 : 텍스트 정렬 방법 지정(left, right, center를 많이씀)
+ ** text-align 속성 : 텍스트 정렬 방법 지정(ex. text-align: left, right, center를 많이씀)
 
 ---
 * 칼라를 숫자로 표기하는 방법
