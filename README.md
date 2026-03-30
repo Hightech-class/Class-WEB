@@ -49,6 +49,10 @@ WEB class contents
   *** 16진수 표기법
   *** rgb/rgba 표기법
  ** text-align 속성 : 텍스트 정렬 방법 지정(ex. text-align: left, right, center를 많이씀)
+ ** line-height 속성
+  *** 문단의 줄 높이 지정
+  *** <숫자>와 <백분율>은 '부모 요소'를 기준으로 몇배인지 지정
+  *** 보통 글자의 1.5~2배정도 지정
 
 ---
 * 칼라를 숫자로 표기하는 방법
