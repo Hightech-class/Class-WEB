@@ -54,6 +54,7 @@ WEB class contents
    **** 줄 높이는 텍스트를 세로정렬할때도 유용함
   *** <숫자>와 <백분율>은 '부모 요소'를 기준으로 몇배인지 지정
   *** 보통 글자의 1.5~2배정도 지정
+ ** text-decoration 속성
 ---
 * 칼라를 숫자로 표기하는 방법
 * <img width="590" height="414" alt="image" src="https://github.com/user-attachments/assets/b00a170f-bf3c-4e08-af0e-a63e8141bf49" />
