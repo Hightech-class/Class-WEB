@@ -28,5 +28,12 @@ WEB class contents
   *** font-family 속성은 <body> 태그 스타일에서 정의하여 문서 전체에 적용, 문서 안의 모든 자식요소에게 상속되어 같은 글꼴을 사용하는 경우가 일반적임
  ** 속성 단축 사용 : font-size, font-weight, font-size, font-family를 순서대로 지정
   ex. font : font-size font-weight font-size font-family  <- 콤마가 아닌 공백으로 구분함
+---
 
+* 웹 폰트 사용하기
+ ** 웹 폰트
+  *** 웹 문서 안에 글꼴 정보도 함께 저장했다가 사용자가 웹 문서에 접속하면 글꼴을 사용자 시스템으로 다운로드시켜 사용하는 글꼴
+  *** 사용자 시스템에 없는 글꼴이더라도 웹 제작자가 의도한대로 텍스트 표시 가능
+ ** 아이콘 폰트 
+  
 
