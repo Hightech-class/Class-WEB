@@ -59,8 +59,7 @@ WEB class contents
  ** text-transform 속성 : 영문 텍스트의 대문자나 소문자를 바꾸는 속성
 ---
 * 칼라를 숫자로 표기하는 방법
-* <img width="590" height="414" alt="image" src="https://github.com/user-attachments/assets/b00a170f-bf3c-4e08-af0e-a63e8141bf49" />
----
+
 
 
   
